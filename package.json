@@ -1,0 +1,25 @@
+{
+  "name": "@arjitmalik/nightingale",
+  "version": "1.0.0",
+  "description": "A logger library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARJITMALIK/nightingale.git"
+  },
+  "keywords": [
+    "npm",
+    "library",
+    "microservice"
+  ],
+  "author": "Arjit Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARJITMALIK/nightingale/issues"
+  },
+  "homepage": "https://github.com/ARJITMALIK/nightingale#readme"
+}
